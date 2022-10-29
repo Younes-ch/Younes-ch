@@ -7,7 +7,7 @@
 <br>
 
 ## :sassy_man:  About me
-- :school: I am a `Junior` at Higher Institute of Applied Science and Technology of Sousse
+- :school: I am a `2nd year` Bachelor's degree student in Computer Science at the Higher Institute of Applied Science and Technology of Sousse
 - :technologist: I love using Software as a solution for every `Problem`
 - :computer: I am a competitive programmer mainly at `Codewars`
 - :student: I’m currently learning: `Computer Science` and `Software Engineering`.
@@ -17,7 +17,7 @@
 <br>
 
 ## 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Younes-ch&theme=algolia" alt="7oSkaaa" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Younes-ch&theme=algolia"/></p>
 
 <br>
 <br>
