@@ -11,7 +11,7 @@
 - :technologist: I love using Software as a solution for every `Problem`
 - :computer: I am a competitive programmer mainly at `Codewars`
 - :student: I’m currently learning: `Computer Science` and `Software Engineering`.
-- :thinking: I’m currently open for: `A summer Intern` or a new `part job opportunity`.
+- :thinking: I’m currently open for: `A freelance project` or a new `part job opportunity`.
 - :nerd_face: Always `learning new things`
 
 <br>
@@ -26,12 +26,12 @@
 ## 👀 My Competitive Programming Profiles
 
 <p align="center">
-  <a href="https://codeforces.com/profile/7oSkaaa"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png" alt="Code Forces"/></a>
-	<a href="https://leetcode.com/7oSkaa/"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="LeetCode"/></a>
-	<a href="https://atcoder.jp/users/ahmed_7oSkaa"><img src="https://i.ibb.co/Q9WSjDB/logo.png" alt="AtCoder"/></a>
-	<a href="https://www.codechef.com/users/ahmed_7oskaa"><img src="https://img.icons8.com/color/50/000000/codechef.png" alt="Code Chef"/></a>
-	<a href="https://icpc.global/ICPCID/IW0X0CTD0ZV9"><img src="https://i.ibb.co/6J0r7rW/Daco-5610880.png" alt="ICPC Global"/></a>     
-	<a href="https://www.codingame.com/profile/e5e56c7585fda3b457056b85180a4d636850344" ><img src="https://i.ibb.co/1MRppTC/codingame-1.png" alt="Codingame" width="100" height="50">
+	<a href="https://www.codewars.com/users/YounesCh"><img src="https://cdn.icon-icons.com/icons2/2389/PNG/512/codewars_logo_icon_145389.png"/></a>
+  	<a href="https://www.hackerrank.com/YounesCh"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/344/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-shadow-tal-revivo.png"/></a>
+	<a href="https://www.codingame.com/profile/ac81ddfed9c97e45d02ec65f8464e2fe6196824" ><img src="https://i.ibb.co/1MRppTC/codingame-1.png" alt="Codingame" width="100" height="50">
+	<a href="https://leetcode.com/younes-ch/"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="LeetCode"/></a>
+	
+	<!--<a href="https://codeforces.com/profile/youneschouikh"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png" alt="Code Forces"/></a>-->
 </p>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
