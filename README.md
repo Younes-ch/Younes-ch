@@ -1,18 +1,12 @@
 <h1 align="center">Hi , I'm Younes Chouikh <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Open+Sans&pause=1000&color=F70000&width=435&lines=Computer+Science+Student;Competitive+Programmer;4+Kyu+on+codewars" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Open+Sans&pause=1000&color=F70000&width=435&lines=Computer+Science+Student;Competitive+Programmer;" alt="Typing SVG" /></a>
 </p>
-<div>
-  <center>
-	  <p>
-	    <a target="_blank" align="center">
-	      <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
-	    </a>
-	  </p>
-  </center>
-</div>
-
-<br>
+<p>
+	<a target="_blank" align="center">
+	<img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+	</a>
+</p>
 <br>
 
 ## :sassy_man:  About me
@@ -35,10 +29,10 @@
 ## 👀 My Competitive Programming Profiles
 
 <p align="center">
-	<a href="https://www.codewars.com/users/YounesCh"><img src="https://cdn.icon-icons.com/icons2/2389/PNG/512/codewars_logo_icon_145389.png" width="100" height="100"/></a>
-  	<a href="https://www.hackerrank.com/YounesCh"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/344/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-shadow-tal-revivo.png" width="100" height="100"/></a>
-	<a href="https://www.codingame.com/profile/ac81ddfed9c97e45d02ec65f8464e2fe6196824" ><img src="https://i.ibb.co/1MRppTC/codingame-1.png" alt="Codingame" width="100" height="50" width="100" height="100"></a>
-	<a href="https://leetcode.com/younes-ch/"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="LeetCode" width="100" height="100"/></a>
+	<a href="https://www.codewars.com/users/YounesCh"><img src="https://cdn.icon-icons.com/icons2/2389/PNG/512/codewars_logo_icon_145389.png" width="50" height="50"/></a>
+  	<a href="https://www.hackerrank.com/YounesCh"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/344/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-shadow-tal-revivo.png" width="50" height="50"/></a>
+	<a href="https://www.codingame.com/profile/ac81ddfed9c97e45d02ec65f8464e2fe6196824" ><img src="https://i.ibb.co/1MRppTC/codingame-1.png" alt="Codingame" width="50" height="50" width="50" height="50"></a>
+	<a href="https://leetcode.com/younes-ch/"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="LeetCode" width="50" height="50"/></a>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
 <p align="center">
