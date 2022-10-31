@@ -2,10 +2,11 @@
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Open+Sans&pause=1000&color=F70000&width=435&lines=Computer+Science+Student;Competitive+Programmer;4+Kyu+on+codewars" alt="Typing SVG" /></a>
 </p>
-
-<a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
-</a>
+<div align="center">
+  <a target="_blank" align="center">
+    <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+  </a>
+</div>
 
 <br>
 <br>
