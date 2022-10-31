@@ -2,6 +2,11 @@
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Open+Sans&pause=1000&color=F70000&width=435&lines=Computer+Science+Student;Competitive+Programmer;" alt="Typing SVG" /></a>
 </p>
+<p align="center">
+  <a target="_blank" align="center">
+  <img align="center" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+  </a>
+</p>
 <br>
 
 ## :sassy_man:  About me
@@ -158,12 +163,6 @@
 ## :trophy: Git profile Trophies
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Younes-ch&layout=compact&theme=algolia" alt="Yonues-ch" /></a> </p>
-
-<p align="center">
-  <a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
-  </a>
-</p>
 
 -----
 
