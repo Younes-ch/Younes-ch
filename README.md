@@ -154,7 +154,7 @@
 
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/Younes-ch"><img alt="Younes-ch's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Younes-ch&custom_title=Younes-ch's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/Younes-ch"><img alt="Younes-ch's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=Younes-ch&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph" /></a>
   <br/>
 
 
@@ -166,4 +166,4 @@
 
 -----
 
-Last Edited on: 31/10/2022
+Last Edited on: 19/12/2022
