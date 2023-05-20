@@ -95,7 +95,7 @@
   &emsp;
     <a href="#"><img alt="JSON" img src="https://img.shields.io/badge/json-%23000000.svg?style=plastic&logo=json&logoColor=white" target="_blank"></a>
   &emsp;
-    <a href="#"><img alt="Postman" img src="https://img.shields target="_blank".io/badge/postman-orange" target="_blank"></a>
+    <a href="#"><img alt="Postman" img src="https://img.shields.io/badge/postman-orange" target="_blank"></a>
 	
 </p>
 
