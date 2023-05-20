@@ -26,19 +26,19 @@
 ## 👀 My Competitive Programming Profiles
 
 <p align="center">
-	<a href="https://www.codewars.com/users/YounesCh"><img src="https://cdn.icon-icons.com/icons2/2389/PNG/512/codewars_logo_icon_145389.png" width="50" height="50"/></a>
-  	<a href="https://www.hackerrank.com/YounesCh"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/344/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-shadow-tal-revivo.png" width="50" height="50"/></a>
-	<a href="https://www.codingame.com/profile/ac81ddfed9c97e45d02ec65f8464e2fe6196824" ><img src="https://i.ibb.co/1MRppTC/codingame-1.png" alt="Codingame" width="50" height="50" width="50" height="50"></a>
-	<a href="https://leetcode.com/younes-ch/"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="LeetCode" width="50" height="50"/></a>
+	<a href="https://www.codewars.com/users/YounesCh" target="_blank"><img src="https://cdn.icon-icons.com/icons2/2389/PNG/512/codewars_logo_icon_145389.png" width="50" height="50"/></a>
+  	<a href="https://www.hackerrank.com/YounesCh" target="_blank"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/344/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-shadow-tal-revivo.png" width="50" height="50"/></a>
+	<a href="https://www.codingame.com/profile/ac81ddfed9c97e45d02ec65f8464e2fe6196824" target="_blank" ><img src="https://i.ibb.co/1MRppTC/codingame-1.png" alt="Codingame" width="50" height="50" width="50" height="50"></a>
+	<a href="https://leetcode.com/younes-ch/" target="_blank"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="LeetCode" width="50" height="50"/></a>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
 <p align="center">
-	<a href="mailto:younes.chouikh20@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
-	<a href="https://github.com/Younes-ch"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
-	<a href="https://wa.me/21693546403"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>
-	<a href="https://www.linkedin.com/in/younes-chouikh/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-	<a href="https://www.facebook.com/younes.chouikh20"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white" alt="Facebook"/></a>
-	<a href="https://www.instagram.com/younes.chouikh20/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
+	<a href="mailto:younes.chouikh20@gmail.com" target="_blank"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
+	<a href="https://github.com/Younes-ch" target="_blank"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
+	<a href="https://wa.me/21693546403" target="_blank"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>
+	<a href="https://www.linkedin.com/in/younes-chouikh/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+	<a href="https://www.facebook.com/younes.chouikh20" target="_blank"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white" alt="Facebook"/></a>
+	<a href="https://www.instagram.com/younes.chouikh20/" target="_blank"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
 </p>
 
 
@@ -83,17 +83,20 @@
  
 <p align="center">
   &emsp;
-    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=plastic&logo=git&logoColor=white"></a>
+    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=plastic&logo=git&logoColor=white" target="_blank"></a>
   &emsp;
-    <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white"></a>
+    <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" target="_blank"></a>
   &emsp;
-    <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets%20-%2334A853.svg?style=plastic&logo=google%20sheets&logoColor=white"></a>
+    <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets%20-%2334A853.svg?style=plastic&logo=google%20sheets&logoColor=white" target="_blank"></a>
   &emsp;
-    <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=plastic&logo=stack-overflow&logoColor=white"></a>
+    <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=plastic&logo=stack-overflow&logoColor=white" target="_blank"></a>
   &emsp;
-    <a href="#"><img alt="Geeks For Geeks" src="https://img.shields.io/badge/geeksforgeeks-%230F9D58.svg?style=plastic&logo=geeksforgeeks&logoColor=white"></a>
+    <a href="#"><img alt="Geeks For Geeks" src="https://img.shields.io/badge/geeksforgeeks-%230F9D58.svg?style=plastic&logo=geeksforgeeks&logoColor=white" target="_blank"></a>
   &emsp;
-    <a href="#"><img alt="JSON" img src="https://img.shields.io/badge/json-%23000000.svg?style=plastic&logo=json&logoColor=white"></a>
+    <a href="#"><img alt="JSON" img src="https://img.shields.io/badge/json-%23000000.svg?style=plastic&logo=json&logoColor=white" target="_blank"></a>
+  &emsp;
+    <a href="#"><img alt="Postman" img src="https://img.shields target="_blank".io/badge/postman-orange" target="_blank"></a>
+	
 </p>
 
  ### 👉 IDEs
@@ -140,7 +143,7 @@
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
   <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Younes-ch's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Younes-ch&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
+    <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank"><img alt="Younes-ch's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Younes-ch&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
 <br/>
   &nbsp;
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Younes-ch&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Younes-ch" height="192px"/>
@@ -151,7 +154,7 @@
 
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/Younes-ch"><img alt="Younes-ch's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=Younes-ch&bg_color=01102d&color=6eb9f2&line=41c350&point=ffffff&area=true&hide_border=true" /></a>
+   <a href="https://github.com/Younes-ch" target="_blank"><img alt="Younes-ch's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=Younes-ch&bg_color=01102d&color=6eb9f2&line=41c350&point=ffffff&area=true&hide_border=true" /></a>
   <br/>
 
 
@@ -159,8 +162,8 @@
 
 ## :trophy: Git profile Trophies
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Younes-ch&layout=compact&theme=algolia" alt="Yonues-ch" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank"><img src="https://github-profile-trophy.vercel.app/?username=Younes-ch&layout=compact&theme=algolia" alt="Yonues-ch" /></a> </p>
 
 -----
 
-Last Edited on: 19/12/2022
+Last Edited on: 20/05/2023
