@@ -10,7 +10,7 @@
 - :school: I am a `2nd year` Bachelor's degree student in Computer Science at the Higher Institute of Applied Science and Technology of Sousse
 - :technologist: I love using Software as a solution for every `Problem`
 - :computer: I am a competitive programmer mainly at `Codewars`
-- :student: I’m currently learning: `Computer Science` and `Software Engineering`.
+- :student: I’m currently learning: `Docker` and `Kubernetes`.
 - :thinking: I’m currently open for: `A freelance project` or a new `part job opportunity`.
 - :nerd_face: Always `learning new things`
 
@@ -166,4 +166,4 @@
 
 -----
 
-Last Edited on: 20/05/2023
+Last Edited on: 23/05/2023
