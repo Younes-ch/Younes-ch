@@ -149,6 +149,12 @@
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Younes-ch&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Younes-ch" height="192px"/>
   <br/>
   </p>
+  
+  <p>
+    <a href="https://visitcount.itsvg.in">
+     <img src="https://visitcount.itsvg.in/api?id=Younes-ch&label=Profile%20Views&icon=0&pretty=true" />
+    </a>
+  </p>
 
 ----
 
@@ -166,4 +172,4 @@
 
 -----
 
-Last Edited on: 23/05/2023
+Last Edited on: 09/06/2023
