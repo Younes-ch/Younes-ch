@@ -13,7 +13,7 @@
 - :student: I’m currently learning: `Docker` and `Kubernetes`.
 - :thinking: I’m currently open for: `A freelance project` or a new `part job opportunity`.
 - :nerd_face: Always `learning new things`
-- 👀 Currently seeking for an end-of-studies internship.
+- 👀 Currently seeking for an `end-of-studies internship`.
 
 <br>
 
