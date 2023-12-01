@@ -14,6 +14,7 @@
 - :thinking: I’m currently open for: `A freelance project` or a new `part job opportunity`.
 - :nerd_face: Always `learning new things`
 - 👀 Currently seeking for an `end-of-studies internship`.
+- :computer: `C#` Lover.
 
 <br>
 
@@ -173,4 +174,4 @@
 
 -----
 
-Last Edited on: 21/11/2023
+Last Edited on: 01/12/2023
