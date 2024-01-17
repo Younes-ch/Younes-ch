@@ -19,7 +19,11 @@
 <br>
 
 ## 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Younes-ch&theme=algolia"/></p>
+<p align="center">
+    <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+	<img src="https://streak-stats.demolab.com/?user=Younes-ch&theme=dark" />
+    </a>
+</p>
 
 <br>
 <br>
@@ -63,11 +67,11 @@
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
   <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank"><img alt="Younes-ch's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Younes-ch&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
-<br/>
-  &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Younes-ch&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Younes-ch" height="192px"/>
-  <br/>
+    <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
+	<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Younes-ch&theme=github_dark" />
+    </a>
+	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Younes-ch&langs_count=10&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="Younes-ch" height="192px"/>
+ 	<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Younes-ch&theme=github_dark" />
   </p>
   
   <p>
@@ -80,7 +84,12 @@
 
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/Younes-ch" target="_blank"><img alt="Younes-ch's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Younes-ch&bg_color=01102d&color=6eb9f2&line=41c350&point=ffffff&area=true&hide_border=true" /></a>
+  <p align="center">
+     <a href="https://github.com/Younes-ch" target="_blank">
+         <img alt="Younes-ch's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Younes-ch&bg_color=01102d&color=6eb9f2&line=41c350&point=ffffff&area=true&hide_border=true" />
+         <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Younes-ch&theme=github_dark&utcOffset=1" />
+     </a>
+  </p>
   <br/>
 
  
@@ -95,4 +104,4 @@
 
 -----
 
-Last Edited on: 13/01/2024
+Last Edited on: 17/01/2024
