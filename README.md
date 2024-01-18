@@ -32,10 +32,18 @@
 ## 👀 My Competitive Programming Profiles
 
 <p align="center">
-	<a href="https://www.codewars.com/users/YounesCh" target="_blank"><img src="https://cdn.icon-icons.com/icons2/2389/PNG/512/codewars_logo_icon_145389.png" width="50" height="50"/></a>
-  	<a href="https://www.hackerrank.com/YounesCh" target="_blank"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/344/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-shadow-tal-revivo.png" width="50" height="50"/></a>
-	<a href="https://www.codingame.com/profile/ac81ddfed9c97e45d02ec65f8464e2fe6196824" target="_blank" ><img src="https://i.ibb.co/1MRppTC/codingame-1.png" alt="Codingame" width="50" height="50" width="50" height="50"></a>
-	<a href="https://leetcode.com/younes-ch/" target="_blank"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="LeetCode" width="50" height="50"/></a>
+	<a href="https://www.codewars.com/users/YounesCh" target="_blank">
+		<img src="https://cdn.icon-icons.com/icons2/2389/PNG/512/codewars_logo_icon_145389.png" width="50" height="50"/>
+	</a>
+  	<a href="https://www.hackerrank.com/YounesCh" target="_blank">
+		<img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/344/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-shadow-tal-revivo.png" width="50" height="50"/>
+	</a>
+	<a href="https://www.codingame.com/profile/ac81ddfed9c97e45d02ec65f8464e2fe6196824" target="_blank" >
+		<img src="https://github.com/Younes-ch/Younes-ch/assets/56512077/10e45e43-a842-48ab-b5d0-e50fd88e3d74" alt="Codingame" width="90" height="50"/>
+	</a>
+	<a href="https://leetcode.com/younes-ch/" target="_blank">
+		<img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="LeetCode" width="50" height="50"/>
+	</a>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
 <p align="center">
@@ -104,4 +112,4 @@
 
 -----
 
-Last Edited on: 17/01/2024
+Last Edited on: 18/01/2024
