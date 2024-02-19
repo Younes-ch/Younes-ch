@@ -13,7 +13,6 @@
 - :student: I’m currently learning: `React`, `React Native`, and `NestJS`.
 - :thinking: I’m currently open for: `A freelance project` or a new `part job opportunity`.
 - :nerd_face: Always `learning new things`
-- 👀 Currently seeking for an `end-of-studies internship`.
 - :computer: `C#` Lover.
 
 <br>
@@ -112,4 +111,4 @@
 
 -----
 
-Last Edited on: 23/01/2024
+Last Edited on: 19/02/2024
