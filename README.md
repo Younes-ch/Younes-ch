@@ -7,7 +7,7 @@
 <br>
 
 ## :sassy_man:  About me
-- :school: I am a `1st year` Engineering degree student in Computer Science & Engineering at the Higher Institute of Applied Science and Technology of Sousse.
+- :school: I am a `1st year` Engineering degree student in Software Engineering at the Higher Institute of Applied Science and Technology of Sousse.
 - :technologist: I love using Software as a solution for every `Problem`.
 - :computer: I am a competitive programmer mainly at `Codewars` & `HackerRank`.
 - :student: I’m currently learning: `.NET` ecosystem.
