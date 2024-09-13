@@ -7,10 +7,10 @@
 <br>
 
 ## :sassy_man:  About me
-- :school: I am a `final year` Bachelor's degree student in Computer Science at the Higher Institute of Applied Science and Technology of Sousse
-- :technologist: I love using Software as a solution for every `Problem`
-- :computer: I am a competitive programmer mainly at `Codewars`
-- :student: I’m currently learning: `React`, `React Native`, and `NestJS`.
+- :school: I am a `1st year` Engineering degree student in Computer Science & Engineering at the Higher Institute of Applied Science and Technology of Sousse.
+- :technologist: I love using Software as a solution for every `Problem`.
+- :computer: I am a competitive programmer mainly at `Codewars` & `HackerRank`.
+- :student: I’m currently learning: `.NET` ecosystem.
 - :thinking: I’m currently open for: `A freelance project` or a new `part job opportunity`.
 - :nerd_face: Always `learning new things`
 - :computer: `C#` Lover.
@@ -111,4 +111,4 @@
 
 -----
 
-Last Edited on: 19/02/2024
+Last Edited on: 13/09/2024
