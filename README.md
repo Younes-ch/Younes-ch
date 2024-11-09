@@ -88,7 +88,6 @@
   <p align="center">
      <a href="https://github.com/Younes-ch" target="_blank">
          <img alt="Younes-ch's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Younes-ch&bg_color=01102d&color=6eb9f2&line=41c350&point=ffffff&area=true&hide_border=true" />
-         <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Younes-ch&theme=github_dark&utcOffset=1" />
      </a>
   </p>
   <br/>
@@ -105,4 +104,4 @@
 
 -----
 
-Last Edited on: 23/10/2024
+Last Edited on: 09/11/2024
