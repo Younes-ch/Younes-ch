@@ -1,7 +1,5 @@
 <h1 align="center">Hi , I'm Younes Chouikh <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<p align="center">
- <a href="https://app.daily.dev/youneschouikh"><img src="./devcard.png" width="652" alt="Younes Chouikh's Dev Card"/></a>
-</p>
+
 <br>
 
 ## :sassy_man:  About me
@@ -104,4 +102,4 @@
 
 -----
 
-Last Edited on: 09/11/2024
+Last Edited on: 10/11/2024
