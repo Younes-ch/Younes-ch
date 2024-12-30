@@ -73,12 +73,6 @@
  	<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Younes-ch&theme=github_dark" />
   </p>
   
-  <p>
-    <a href="https://visitcount.itsvg.in">
-     <img src="https://visitcount.itsvg.in/api?id=Younes-ch&label=Profile%20Views&icon=0&pretty=true" />
-    </a>
-  </p>
-
 ----
 
   <summary><b>⚡ Recent GitHub Activity</b></summary>
@@ -102,4 +96,4 @@
 
 -----
 
-Last Edited on: 10/11/2024
+Last Edited on: 30/12/2024
