@@ -53,7 +53,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,py,ts,js,bash,css,html,java,mysql,sqlite,c,cpp,md,dotnet,django,react,nodejs,vue,nestjs,unity,tailwind,bootstrap,vite,git,github,githubactions,docker,postman,azure,gcp,linux,vscode,visualstudio,androidstudio,replit,idea,eclipse,discord,bots"/>
+    <img src="https://skillicons.dev/icons?i=cs,py,ts,js,bash,css,html,java,mysql,sqlite,c,cpp,md,dotnet,django,react,nodejs,nestjs,unity,tailwind,bootstrap,vite,git,github,githubactions,docker,postman,azure,gcp,linux,vscode,visualstudio,discord,bots"/>
   </a>
 </p>
 
@@ -96,4 +96,4 @@
 
 -----
 
-Last Edited on: 30/12/2024
+Last Edited on: 22/06/2025
