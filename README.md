@@ -52,9 +52,18 @@
 ## 🛠️ My Skills
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,py,ts,js,bash,css,html,java,mysql,sqlite,c,cpp,md,dotnet,django,react,nodejs,nestjs,unity,tailwind,bootstrap,vite,git,github,githubactions,docker,postman,azure,gcp,linux,vscode,visualstudio,discord,bots"/>
-  </a>
+    <strong>I mainly :heartpulse: these :point_down:</strong>
+    </br>
+    </br>
+    <img src="https://skillicons.dev/icons?i=dotnet,cs,azure,docker,visualstudio,vscode,git,github,githubactions"/>
+    <p align="center">
+    <strong>But I use these aswell :point_down:</strong>
+    </br>
+    </br>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=py,ts,js,bash,css,html,java,mysql,sqlite,c,cpp,md,django,react,nodejs,nestjs,unity,tailwind,bootstrap,vite,postman,gcp,linux,discord,bots"/>
+    </a>
+    </p>
 </p>
 
 <br/>
@@ -96,4 +105,4 @@
 
 -----
 
-Last Edited on: 22/06/2025
+Last Edited on: 23/06/2025
