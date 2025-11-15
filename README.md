@@ -5,7 +5,6 @@
 ## :sassy_man:  About me
 - :school: I am currently pursuing a Software Engineering degree at the Higher Institute of Applied Science and Technology of Sousse.
 - :technologist: I love using Software as a solution for every `Problem`.
-- :computer: I am a competitive programmer mainly at `Codewars` & `HackerRank`.
 - :student: I’m currently learning: `.NET` ecosystem.
 - :thinking: I’m currently open for: `A freelance project` or a new `part job opportunity`.
 - :nerd_face: Always `learning new things`
