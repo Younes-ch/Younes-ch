@@ -4,10 +4,10 @@
 
 ## :sassy_man:  About me
 - :school: I am currently pursuing a Software Engineering degree at the Higher Institute of Applied Science and Technology of Sousse.
-- :technologist: I love using Software as a solution for every `Problem`.
+- :technologist: I love using Software as a solution for every Problem.
 - :student: I’m currently learning: `.NET` ecosystem.
-- :thinking: I’m currently open for: `A freelance project` or a new `part job opportunity`.
-- :nerd_face: Always `learning new things`
+- :thinking: I’m currently open for: `A freelance project` or a new `part-time job opportunity`.
+- :nerd_face: Always `learning new things.`
 - :computer: `C#` Lover.
 
 <br>
@@ -15,7 +15,7 @@
 ## 🔥 Streak Stats
 <p align="center">
     <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-	<img src="https://streak-stats.demolab.com/?user=Younes-ch&theme=dark" />
+		<img src="https://streak-stats.demolab.com/?user=Younes-ch&theme=dark" />
     </a>
 </p>
 
