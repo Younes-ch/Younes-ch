@@ -74,11 +74,11 @@
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
   <p align="center">
+	<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Younes-ch&theme=github_dark" />
+ 	<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Younes-ch&theme=github_dark" />
     <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
-	<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Younes-ch&theme=github_dark" />
+		<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Younes-ch&theme=github_dark" />
     </a>
-	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Younes-ch&langs_count=10&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="Younes-ch" height="192px"/>
- 	<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Younes-ch&theme=github_dark" />
   </p>
   
 ----
@@ -100,8 +100,12 @@
 
 ## :trophy: Git profile Trophies
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank"><img src="https://github-profile-trophy.vercel.app/?username=Younes-ch&layout=compact&theme=algolia" alt="Yonues-ch" /></a> </p>
+<p align="center">
+	<a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
+		<img src="https://github-profile-trophy.vercel.app/?username=Younes-ch&layout=compact&theme=algolia" alt="Yonues-ch" />
+	</a>
+</p>
 
 -----
 
-Last Edited on: 14/11/2025
+Last Edited on: 29/12/2025
