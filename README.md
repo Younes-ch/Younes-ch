@@ -55,11 +55,8 @@
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
   <p align="center">
-	<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Younes-ch&theme=github_dark" />
- 	<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Younes-ch&theme=github_dark" />
-    <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
-		<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Younes-ch&theme=github_dark" />
-    </a>
+	<img src="https://github-stats-extended.vercel.app/api?username=Younes-ch&rank_icon=percentile&show_icons=true&include_all_commits=true&theme=github_dark" />
+ 	<img src="https://github-stats-extended.vercel.app/api/top-langs?username=Younes-ch&layout=compact&langs_count=6&theme=github_dark" />
   </p>
   
 ----
@@ -82,11 +79,9 @@
 ## :trophy: Git profile Trophies
 
 <p align="center">
-	<a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
-		<img src="https://github-profile-trophy.vercel.app/?username=Younes-ch&layout=compact&theme=algolia" alt="Yonues-ch" />
-	</a>
+	<img src="https://trophygithubreadmelang.cybee.dpdns.org/?username=Younes-ch&theme=algolia" alt="Yonues-ch" />
 </p>
 
 -----
 
-Last Edited on: 11/05/2026
+Last Edited on: 23/07/2026
