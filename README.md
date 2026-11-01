@@ -62,15 +62,7 @@
 ----
 
   <summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
-  <p align="center">
-     <a href="https://github.com/Younes-ch" target="_blank">
-         <img alt="Younes-ch's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Younes-ch&bg_color=01102d&color=6eb9f2&line=41c350&point=ffffff&area=true&hide_border=true" />
-     </a>
-  </p>
-  <br/>
 
- 
 ![Snake GIF](https://github.com/Younes-ch/Younes-ch/blob/output/github-contribution-grid-snake-dark.svg)
  
 
@@ -84,4 +76,4 @@
 
 -----
 
-Last Edited on: 23/07/2026
+Last Edited on: 01/11/2026
